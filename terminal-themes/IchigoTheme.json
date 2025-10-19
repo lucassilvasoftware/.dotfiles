@@ -1,0 +1,23 @@
+        {
+            "background": "#0D0D1A",
+            "black": "#0D0D1A",
+            "blue": "#00C2FF",
+            "brightBlack": "#414868",
+            "brightBlue": "#33D4FF",
+            "brightCyan": "#00FFEA",
+            "brightGreen": "#00FFAA",
+            "brightPurple": "#B84DFF",
+            "brightRed": "#FF5A7A",
+            "brightWhite": "#D4D4D8",
+            "brightYellow": "#FFFF66",
+            "cursorColor": "#00C2FF",
+            "cyan": "#00FFE6",
+            "foreground": "#D4D4D8",
+            "green": "#00FF88",
+            "name": "IchigoTheme",
+            "purple": "#B84DFF",
+            "red": "#FF5A7A",
+            "selectionBackground": "#28344A",
+            "white": "#D4D4D8",
+            "yellow": "#FFFF66"
+        }
